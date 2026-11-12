@@ -1,0 +1,7 @@
+-r requirements.txt
+torch
+torchvision
+timm
+albumentations
+nibabel
+opencv-python-headless

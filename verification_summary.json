@@ -1,0 +1,21 @@
+{
+  "archive": "Run 4 - single-slice model, all experiments (put the download here).zip",
+  "archive_sha256": "e137aa23c8b66593ed05691623295320c257947e03609a2c68429af7aaf2d319",
+  "patients": 574,
+  "methylated": 300,
+  "scheduled_jobs_present": 642,
+  "archived_jobs": 1444,
+  "archived_predictions_reconstructed": true,
+  "checkpoint_selected_AUC": 0.7380109489051094,
+  "checkpoint_selected_AUC_CI": [
+    0.6981116368035295,
+    0.7784886261380205
+  ],
+  "fixed_epoch_AUC": 0.6615997566909975,
+  "three_slice_AUC": {
+    "checkpoint_selected": 0.7255656934306569,
+    "fixed_epoch": 0.6559184914841849
+  },
+  "duplicate_exclusions": 386,
+  "other_fold_high_specificity": 0.8978102189781022
+}

@@ -1,0 +1,101 @@
+model,estimate,fold,AUC
+b2,checkpoint_selected,1,0.7360606060606061
+b2,checkpoint_selected,2,0.6912121212121212
+b2,checkpoint_selected,3,0.7163636363636364
+b2,checkpoint_selected,4,0.7424242424242424
+b2,checkpoint_selected,5,0.6972222222222222
+b2,fixed_epoch,1,0.6884848484848486
+b2,fixed_epoch,2,0.6406060606060606
+b2,fixed_epoch,3,0.6342424242424244
+b2,fixed_epoch,4,0.7118181818181817
+b2,fixed_epoch,5,0.6429012345679013
+b0,checkpoint_selected,1,0.7239393939393939
+b0,checkpoint_selected,2,0.7293939393939395
+b0,checkpoint_selected,3,0.699090909090909
+b0,checkpoint_selected,4,0.7051515151515152
+b0,checkpoint_selected,5,0.7462962962962963
+b0,fixed_epoch,1,0.656969696969697
+b0,fixed_epoch,2,0.61
+b0,fixed_epoch,3,0.6066666666666667
+b0,fixed_epoch,4,0.6921212121212121
+b0,fixed_epoch,5,0.6675925925925926
+DenseNet-121,checkpoint_selected,1,0.7121212121212122
+DenseNet-121,checkpoint_selected,2,0.6975757575757575
+DenseNet-121,checkpoint_selected,3,0.6645454545454544
+DenseNet-121,checkpoint_selected,4,0.7693939393939394
+DenseNet-121,checkpoint_selected,5,0.6898148148148149
+DenseNet-121,fixed_epoch,1,0.6560606060606061
+DenseNet-121,fixed_epoch,2,0.6236363636363637
+DenseNet-121,fixed_epoch,3,0.6118181818181819
+DenseNet-121,fixed_epoch,4,0.6821212121212121
+DenseNet-121,fixed_epoch,5,0.6320987654320988
+ResNet-18,checkpoint_selected,1,0.6596969696969697
+ResNet-18,checkpoint_selected,2,0.6021212121212121
+ResNet-18,checkpoint_selected,3,0.6157575757575757
+ResNet-18,checkpoint_selected,4,0.6912121212121213
+ResNet-18,checkpoint_selected,5,0.6049382716049383
+ResNet-18,fixed_epoch,1,0.6412121212121212
+ResNet-18,fixed_epoch,2,0.5818181818181819
+ResNet-18,fixed_epoch,3,0.6006060606060606
+ResNet-18,fixed_epoch,4,0.6715151515151515
+ResNet-18,fixed_epoch,5,0.6018518518518517
+MobileNet-v2,checkpoint_selected,1,0.7063636363636364
+MobileNet-v2,checkpoint_selected,2,0.6684848484848485
+MobileNet-v2,checkpoint_selected,3,0.6687878787878788
+MobileNet-v2,checkpoint_selected,4,0.756969696969697
+MobileNet-v2,checkpoint_selected,5,0.6487654320987656
+MobileNet-v2,fixed_epoch,1,0.6533333333333333
+MobileNet-v2,fixed_epoch,2,0.5878787878787879
+MobileNet-v2,fixed_epoch,3,0.639090909090909
+MobileNet-v2,fixed_epoch,4,0.66
+MobileNet-v2,fixed_epoch,5,0.5774691358024692
+Four-layer CNN,checkpoint_selected,1,0.6287878787878788
+Four-layer CNN,checkpoint_selected,2,0.583030303030303
+Four-layer CNN,checkpoint_selected,3,0.5472727272727272
+Four-layer CNN,checkpoint_selected,4,0.7057575757575758
+Four-layer CNN,checkpoint_selected,5,0.533641975308642
+Four-layer CNN,fixed_epoch,1,0.5987878787878789
+Four-layer CNN,fixed_epoch,2,0.5606060606060606
+Four-layer CNN,fixed_epoch,3,0.5275757575757576
+Four-layer CNN,fixed_epoch,4,0.6457575757575758
+Four-layer CNN,fixed_epoch,5,0.5277777777777778
+BraTS only b2,checkpoint_selected,1,0.6821212121212121
+BraTS only b2,checkpoint_selected,2,0.6966666666666668
+BraTS only b2,checkpoint_selected,3,0.6754545454545455
+BraTS only b2,checkpoint_selected,4,0.7539393939393939
+BraTS only b2,checkpoint_selected,5,0.6743827160493827
+BraTS only b2,fixed_epoch,1,0.5963636363636364
+BraTS only b2,fixed_epoch,2,0.563939393939394
+BraTS only b2,fixed_epoch,3,0.5918181818181818
+BraTS only b2,fixed_epoch,4,0.656969696969697
+BraTS only b2,fixed_epoch,5,0.6179012345679012
+BraTS only b0,checkpoint_selected,1,0.6009090909090908
+BraTS only b0,checkpoint_selected,2,0.6693939393939394
+BraTS only b0,checkpoint_selected,3,0.6757575757575757
+BraTS only b0,checkpoint_selected,4,0.7084848484848485
+BraTS only b0,checkpoint_selected,5,0.6459876543209876
+BraTS only b0,fixed_epoch,1,0.5021212121212122
+BraTS only b0,fixed_epoch,2,0.5957575757575757
+BraTS only b0,fixed_epoch,3,0.5878787878787879
+BraTS only b0,fixed_epoch,4,0.6596969696969697
+BraTS only b0,fixed_epoch,5,0.5376543209876543
+Proposed,checkpoint_selected,1,0.743939393939394
+Proposed,checkpoint_selected,2,0.7215151515151514
+Proposed,checkpoint_selected,3,0.7309090909090908
+Proposed,checkpoint_selected,4,0.7522727272727273
+Proposed,checkpoint_selected,5,0.7442901234567901
+Proposed,fixed_epoch,1,0.6839393939393938
+Proposed,fixed_epoch,2,0.6287878787878788
+Proposed,fixed_epoch,3,0.6271212121212122
+Proposed,fixed_epoch,4,0.7103030303030303
+Proposed,fixed_epoch,5,0.6682098765432098
+BraTS-only ensemble,checkpoint_selected,1,0.6600000000000001
+BraTS-only ensemble,checkpoint_selected,2,0.7121212121212122
+BraTS-only ensemble,checkpoint_selected,3,0.7016666666666667
+BraTS-only ensemble,checkpoint_selected,4,0.7528787878787878
+BraTS-only ensemble,checkpoint_selected,5,0.6766975308641975
+BraTS-only ensemble,fixed_epoch,1,0.5492424242424242
+BraTS-only ensemble,fixed_epoch,2,0.5886363636363636
+BraTS-only ensemble,fixed_epoch,3,0.5925757575757575
+BraTS-only ensemble,fixed_epoch,4,0.6781818181818181
+BraTS-only ensemble,fixed_epoch,5,0.5739197530864197
